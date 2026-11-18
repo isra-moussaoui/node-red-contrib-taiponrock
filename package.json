@@ -1,0 +1,28 @@
+{
+  "name": "red-contrib-taiponrock",
+  "version": "1.0.0",
+  "node-red": {
+  "nodes": {
+  "taiponrock": "node.js"
+  }
+  },
+  "description": "Node-RED nodes for data processing and transformation",
+  "keywords": [
+    "node-red"
+  ],
+  "homepage": "https://github.com/isra-moussaoui/node-red-contrib-taiponrock#readme",
+  "bugs": {
+    "url": "https://github.com/isra-moussaoui/node-red-contrib-taiponrock/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isra-moussaoui/node-red-contrib-taiponrock.git"
+  },
+  "license": "Apache-2.0",
+  "author": "npm account",
+  "type": "commonjs",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
